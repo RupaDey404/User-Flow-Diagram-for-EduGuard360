@@ -1,4 +1,4 @@
-#diagram of attendance
+### For academic user flow diagram
 
 ```mermaid
    ---
