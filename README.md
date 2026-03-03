@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-#diagram of attendance
+### EduGuard360 is a school management software. It's an existing software. Our development team is trying to expand it using Django framework. In this repository, I have prepared the module wise user flow diagram. Our development team will be benefitted for it. Even it will be essential for testing phase.
 
-```mermaid
-    flowchart TD
-    A[Login] --> B{Role}
-    B -->|Admin| C[Setup Attendance]
-    B -->|Teacher| D[Mark Attendance]
-    B -->|Student| E[View Attendance]
+I have designed the user flow diagram all of those module which has already exist in the existing software. Those are academic, manage user, all-certificates, manage-library, notice/holidays and student work.
 
-```
-=======
-# User-Flow-Diagram-for-EduGuard360
-EduGuard360 is a school management software. It's an existing software. Our development team is trying to expand it using Django framework. In this repository, I have prepared the module wise user flow diagram. Our development team will be benefitted for it. Even it will be essential for testing phase.
->>>>>>> abd2179957d5b9bb1b31834861903e1dbdf39b6a
+---
+
+# academic user flow 
+
+
