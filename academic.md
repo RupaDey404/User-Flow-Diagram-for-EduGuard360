@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #For academic user flow diagram
+=======
+### For academic user flow diagram
+>>>>>>> cb1cc7175bba878c31879e62f91ab21bf228475c
 
 ```mermaid
    ---
