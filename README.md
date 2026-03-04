@@ -14,11 +14,45 @@
         * note
 
 2. **Group**
+    * **Group field is -**
+        * Group
+
 3. **Section**
+    * **Section fields are -**
+        * Section
+        * Capacity
+        * Class
+        * Teacher name
+        * Notes
+
 4. **Subjet Information**
+    * **subject fields are-**
+        * subject name
+        * class name
+        * section
+        * group
+        * subject type
+        * teacher name
+        * priority
+        * subject author
+        * subject code
+
 5. **Syllabus**
+    * **Syllabus fields are-**
+        * Title
+        * Description
+        * class
+        * File
+
 6. **Routine**
+    * **Routine fields are-**
+        * school year
+        * class
+        * section
+
 7. **Shift**
+    * **Shift field is-**
+        * Shift title
 
 ```
 
